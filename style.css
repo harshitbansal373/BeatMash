@@ -1,0 +1,26 @@
+#show{
+    background-color: #34495e;
+    overflow: hidden;
+}
+#head1{
+    margin-top: 15%;
+    font-family: 'Carter One', cursive;
+    font-size: 30px;
+    font-weight: bold;
+    color:palevioletred;
+}
+#head2{
+    margin-top: 3%;
+    font-family: 'Carter One', cursive;
+    font-size: 20px;
+    color:palevioletred;
+}
+#footer{
+    padding: 1%;
+    background-color: black;
+    position: fixed;
+    width: 100%;
+    bottom: 0%;
+    text-align: center;
+    color: white;
+}
