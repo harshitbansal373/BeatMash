@@ -1,4 +1,8 @@
 # Beatmash
+![repo-size](https://img.shields.io/github/repo-size/harshitbansal373/BeatMash?style=flat-square)
+
+<br>
+
 This is bascially javascript based web application where you only have to press key of keyboard that will show some animation effects with different funny sounds with multi Tracks.
 
 # Some Preview
